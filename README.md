@@ -1,3 +1,3 @@
 # first
 
-### [home](http://github.com/leechungkyeong/first)
+### [home](http://zetmobility.page.link/intro)
