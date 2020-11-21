@@ -1,3 +1,3 @@
 # first
 
-### [home](github.com/leechungkyeong/first)
+### [home](http://github.com/leechungkyeong/first)
