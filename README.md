@@ -1,3 +1,3 @@
 # first
 
-### [home](http://zetmobility.page.link/intro)
+### [home](http://zetmobility.page.link/intro?d=1)
